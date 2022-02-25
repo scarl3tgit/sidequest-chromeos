@@ -1,3 +1,4 @@
+<marquee direction="right"><a href="http://finobe.rf.gd/projects/sidequest-chromeos/">Website Version</a></marquee>
 <h1> Sidequest for Chrome OS </h1>
 <p> Sidequest is a application for the Oculus Quest 1 and 2 that allows you to add custom apps to your quest that aren't officially authorized by Facebook (Meta) </p>
 <p> Sidequest quotes that its not for Chromebooks </p>
