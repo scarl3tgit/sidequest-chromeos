@@ -16,6 +16,6 @@
 <p> 9. Enable Developer Mode and make a app and name it whatever you would like (if you don't know how to check this <a href="https://youtu.be/mxzkVtrUWzc">link</a> </p>
 <p> 10. Restart your Quest (if on) </p>
 <p> 11. To run sidequest use this command "./sidequest" (may change in future updates) </p>
-<p> 12. Plug you Quest in with a USB-C cable <p>
+<p> 12. Plug you Quest in with a USB-C cable (make sure its a transfer cable or a transfer and charger cable) <p>
 <p> 13. Allow your Quest to connect to your Chromebook and allow your Chromebook to connect your Quest to Linux within the settings </p>
 <p> 14. Enjoy! </p>
