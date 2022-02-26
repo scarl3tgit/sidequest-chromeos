@@ -4,7 +4,7 @@
 <p> Sidequest quotes that its not for Chromebooks </p>
 <img src="https://github.com/finobeproject/sidequest-chromeos/blob/main/chromebook_notsupported.PNG" alt="Chromebook Not Supported Image">
 <p> But with this guide you should be able to get it working (on most chromebooks)
-<h1> Installation </h1>
+<h1> How to install Sidequest on Chrome OS </h1>
 <p> 1. Enable Linux on Chrome OS (if you don't know how to check this <a href="https://youtu.be/l2__5omnfQ8">link</a>) </p>
 <p> 2. Get Sidequest by clicking on the button that says "Download for Linux" </p>
 <p> 3. Drag the tar.xz file into the linux folder on your Chrome OS system </p>
