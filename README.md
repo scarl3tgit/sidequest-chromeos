@@ -11,7 +11,7 @@
 <p> 4. Run this command in the Linux terminal "tar -xf your_sidequest_xz_file_here.xz" (remove quotes and replace text before .xz) </p>
 <p> 5. Next, type in "cd your_sidequest_folder_here" to get inside the Sidequest folder (remove quotes and replace text after cd) </p>
 <p> 6. Run this command in the Linux terminal "chmod u+x sidequest" to allow access to running the script (may change in future updates)
-<p> 7. Install libnss3.so library with this command "sudo apt-get install libnss" (may change in future updates)</p>
+<p> 7. Install libnss3.so library with this command "sudo apt-get install libnss3" (may change in future updates)</p>
 <p> 8. Enable ADB Drivers (if you don't know how to check this <a href="https://youtu.be/lgIZuqwTuAo">link</a>) </p>
 <p> 9. Enable Developer Mode and make a app and name it whatever you would like (if you don't know how to check this <a href="https://youtu.be/lgIZuqwTuAo">link</a> </p>
 <p> 10. Restart your Quest (if on) </p>
